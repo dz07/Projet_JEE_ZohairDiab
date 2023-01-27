@@ -44,8 +44,6 @@ Sécurité
 -   Assigner des rôles aux utilisateurs
 -   Tester différents modes d'authentification en utilisant Postman et montrer le contenu de Access-Token et Refresh Token
 
-1.  Adaptateurs Keycloak: Ces adaptateurs sont utilisés pour sécuriser les microservices et le client web Angular. Ils intègrent Keycloak aux microservices et au client web.
-
 KAFKA
 -----
 
