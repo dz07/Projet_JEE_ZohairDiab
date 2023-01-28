@@ -1,5 +1,8 @@
 # Projet JEE et Systèmes Distribués
 
+![key](https://user-images.githubusercontent.com/33198285/215280003-f884c452-a3af-452e-ba12-5a5134dd42fb.PNG)
+
+
 Introduction
 ------------
 
@@ -35,6 +38,8 @@ Client web
 Sécurité
 --------
 
+![sign in key](https://user-images.githubusercontent.com/33198285/215280027-76c7e52b-daf7-43c5-a2cc-ae94dfbd4dac.PNG)
+
 1.  Keycloak: C'est une solution open-source d'identité et d'accès. Il est utilisé pour sécuriser les microservices et le client web Angular. Les étapes suivantes sont effectuées pour sécuriser le système:
 
 -   Créer un Realm
@@ -46,6 +51,8 @@ Sécurité
 
 KAFKA
 -----
+
+![kafka](https://user-images.githubusercontent.com/33198285/215280037-4e94df89-5850-4420-a795-71b39a32a554.PNG)
 
 Mettre en place une architecture de traitement de données en temps réel à l'aide de KAFKA.
 
